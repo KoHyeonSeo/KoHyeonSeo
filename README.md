@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoHyeonSeo
 - I'm studying Unity, unreal engine and algorithm.
-- I already have a naver blog ->  [현또의 코딩 세상] (https://blog.naver.com/rhgustj01)
+- Actually, I already have a naver blog ->  [현또의 코딩 세상] (https://blog.naver.com/rhgustj01)
 
 <!---
 KoHyeonSeo/KoHyeonSeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
