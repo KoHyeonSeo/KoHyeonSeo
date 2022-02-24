@@ -1,4 +1,4 @@
-- ##**👋 Hi, I’m @KoHyeonSeo**##
+- **👋 Hi, I’m @KoHyeonSeo**
 - I'm studying Unity, unreal engine and algorithm.
 - Actually, I already have a blog ->  [현또의 코딩 세상] (https://blog.naver.com/rhgustj01)
 
