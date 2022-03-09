@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"><b> My Blog 🙂 </b></h3>
 </br>
 <p align="center">
-<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=N&logoColor=white&link=연결하고싶은링크"/></a> 
+<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=N&logoColor=white&link=연결하고싶은링크"/></a> 
