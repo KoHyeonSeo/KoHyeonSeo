@@ -38,4 +38,4 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
