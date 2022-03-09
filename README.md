@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FECC00&height=200&section=header&text=👩‍💻Hi!%20I'm%20Hyeonseo!👩‍💻&fontColor=white&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=👩‍💻Hi!%20I'm%20Hyeonseo!👩‍💻&fontColor=FFFFFF&fontSize=50)
 - **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - I'm studying Unity, Unreal Engine and Algorithm.
 
@@ -39,4 +39,4 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FECC00&height=200&section=footer)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
