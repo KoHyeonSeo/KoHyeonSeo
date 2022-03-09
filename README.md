@@ -2,15 +2,11 @@
 - **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - **✏️ I'm studying Unity, Unreal Engine and Algorithm.**
 - **🏫 I'm enrolled in Incheon National University.**
+- **✖️ The private project will be released soon.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHyeonSeo&show_icons=true&theme=radical)
 
-<!---
-KoHyeonSeo/KoHyeonSeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
 
 <h3 align="center"><b> My Languages 👩‍💻 </b></h3>
 </br>
