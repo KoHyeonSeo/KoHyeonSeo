@@ -1,4 +1,3 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 - **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - I'm studying Unity, Unreal Engine and Algorithm.
 
@@ -38,3 +37,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href=mailto:rhgustj310@gmail.com><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhgustj310@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
