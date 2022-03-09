@@ -28,7 +28,12 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
 
- <img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhgustj310@gmail.com"
+ <h3 align="center"><b> My Mail✉️ </b></h3>
+</br>
+<p align="center">
+ <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhgustj310@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<img src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhgustj01@naver.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
