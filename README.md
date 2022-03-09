@@ -7,4 +7,4 @@ KoHyeonSeo/KoHyeonSeo is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
