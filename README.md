@@ -7,16 +7,22 @@ KoHyeonSeo/KoHyeonSeo is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
-<h3 align="center"><b> My Languages </b></h3>
+
+<h3 align="center"><b> My Languages 👩‍💻 </b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-<h3 align="center"><b> My Task </b></h3>
+<h3 align="center"><b> My Task 🎮 </b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
+
+<h3 align="center"><b> My Blog 🙂 </b></h3>
+</br>
+<p align="center">
+<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=N&logoColor=white&link=연결하고싶은링크"/></a> 
