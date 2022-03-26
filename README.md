@@ -2,7 +2,7 @@
 - **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - **✏️ I'm studying Unity, Unreal Engine and Algorithm.**
 - **🏫 I'm enrolled in Incheon National University.**
-- **📌 The private project will be released soon.**
+- **📌 My private project is about to change to public.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHyeonSeo&show_icons=true&theme=radical)
 
