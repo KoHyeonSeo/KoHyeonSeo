@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
 
- <h3 align="center"><b> My Mail✉️ </b></h3>
+ <h3 align="center"><b> Contact✉️ </b></h3>
 </br>
 <p align="center">
 <a href=mailto:rhgustj01@naver.com><img src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhgustj01@naver.com"
