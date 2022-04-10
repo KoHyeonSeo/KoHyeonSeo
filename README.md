@@ -39,6 +39,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 <h3 align="center"><b> My Project 🎮 </b></h3>
+<p align="center">
 https://devslem.itch.io/back-to-the-dungeon
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
