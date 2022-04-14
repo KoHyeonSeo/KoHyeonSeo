@@ -40,6 +40,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <h3 align="center"><b> My Project 🎮 </b></h3>
 <p align="center">
-https://devslem.itch.io/back-to-the-dungeon
+ <a href="https://devslem.itch.io/back-to-the-dungeon">
+    <img src="https://img.shields.io/badge/게임-Back To The Dungeon-green"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
