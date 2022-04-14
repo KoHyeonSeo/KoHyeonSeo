@@ -40,10 +40,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <h3 align="center"><b> My Project 🎮 </b></h3>
 <p align="center">
+ <h2>
  <a href="https://devslem.itch.io/back-to-the-dungeon">
     <img src="https://img.shields.io/badge/itch.io-Back To The Dungeon-yellow"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
- <b>*The script for the game "back to the dungeon" is open to the public!</b>
+ </h2>
+ <b>(The script for the game "back to the dungeon" is open to the public!)</b>
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
