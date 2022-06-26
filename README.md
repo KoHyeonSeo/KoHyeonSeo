@@ -27,7 +27,8 @@
 <h3 align="center"><b> My Blog 🙂 </b></h3>
 </br>
 <p align="center">
-<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
+<p><a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
+<p><a href="https://kohyeonseo.github.io"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
  <h3 align="center"><b> Contact✉️ </b></h3>
 </br>
