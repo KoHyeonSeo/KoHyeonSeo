@@ -45,7 +45,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <h3 align="center"><b> My Project 🎮 </b></h3>
 <p align="center">
  <a href="https://kohyeonseo.itch.io/lawoftheocean">
-    <img src="https://kohyeonseo.itch.io/lawoftheocean-blue"
+    <img src="https://img.shields.io/badge/itch.io-Law Of The Ocean-blue"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
