@@ -10,6 +10,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
 
+<h3 align="center"><b> My Career 🐥 </b></h3>
+</br>
+<p align="center">
+Life Invention Korea 2021 (2021.06.02 ~ 2021.11.19)
+     - received KISTA award
+Team UGD GameDeveloper (2021~)
+Metaverse Academy XR major Developer (2022.06.28~)
+</p>
 <h3 align="center"><b> My Languages ✏️ </b></h3>
 </br>
 <p align="center">
