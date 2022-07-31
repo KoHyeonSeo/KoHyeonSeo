@@ -12,13 +12,12 @@
 🔆 Metaverse Academy XR major Developer (2022.06.28~) <br>
 </p>
 
-<p align="center"><a href="https://github.com/KoHyeonSeo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-<p align="center">
+<p><a href="https://github.com/KoHyeonSeo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHyeonSeo&show_icons=true&theme=radical)
-</p>
-<p align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
-</p>
+
 
 <h3 align="center"><b> My Languages ✏️ </b></h3>
 </br>
