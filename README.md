@@ -73,6 +73,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
+<p align="center">
+ <a href="https://github.com/KoHyeonSeo/MidnighCamp">
+    <img src="https://img.shields.io/badge/Github-Hephaitos(English Version)-black"
+        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
+</a><br>
+
  <b>📌(The script for the game "back to the dungeon" is open to the pu
  blic!)</b>
 
