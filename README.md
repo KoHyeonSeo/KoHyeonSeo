@@ -68,7 +68,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a><br>
 
 <p align="center">
-<a href="https://github.com/KoHyeonSeo/Distraccion"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/KoHyeonSeo/Distraccion"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Distraccion&logoColor=white"></a>
 </p>
 </a><br>
 
