@@ -74,7 +74,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a><br>
 
 <p align="center">
- <a href="https://github.com/KoHyeonSeo/MidnighCamp">
+ <a href="https://github.com/KoHyeonSeo/MidnightCamp">
     <img src="https://img.shields.io/badge/Github-Hephaitos(English Version)-black"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
