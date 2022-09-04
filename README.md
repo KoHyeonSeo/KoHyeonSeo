@@ -57,21 +57,21 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <p align="center">
  <a href="https://devslem.itch.io/back-to-the-dungeon">
-    <img src="https://img.shields.io/badge/itch.io-Back To The Dungeon-yellow"
+    <img src="https://img.shields.io/badge/itch.io-Back To The Dungeon(English Version)-yellow"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
 <p align="center">
  <a href="https://kohyeonseo.itch.io/lawoftheocean">
-    <img src="https://img.shields.io/badge/itch.io-Law Of The Ocean-blue"
+    <img src="https://img.shields.io/badge/itch.io-Law Of The Ocean(English Version)-blue"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
 <p align="center">
  <a href="https://github.com/KoHyeonSeo/Distraccion">
-    <img src="https://img.shields.io/badge/Github-Distraccion-pink"
+    <img src="https://img.shields.io/badge/Github-Distraccion(Korean Version)-pink"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</p>
+
 </a><br>
 
  <b>📌(The script for the game "back to the dungeon" is open to the pu
