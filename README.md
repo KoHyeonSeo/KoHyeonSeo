@@ -79,7 +79,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
- <b>📌(The script for the game "back to the dungeon" is open to the pu
- blic!)</b>
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
