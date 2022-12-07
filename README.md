@@ -10,7 +10,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=KoHyeonSeo&color=dark)](https://github.com/KoHyeonSeo/velog-readme-stats)
 
 <h3><b> My Career 🐥 </b></h3>
 </br>
