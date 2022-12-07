@@ -40,7 +40,7 @@
 <p align="center">
 <a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
 <a href="https://kohyeonseo.github.io"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"></a>
+<a href="https://velog.io/@kohyeonseo1006"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kohyeonseo1006"/></a>
 </p>
 
  <h3 align="center"><b> Contact✉️ </b></h3>
