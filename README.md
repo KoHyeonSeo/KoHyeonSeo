@@ -15,8 +15,8 @@
 </br>
 🔆 Life Invention Korea 2021 (2021.06.02 ~ 2021.11.19)
      - received KISTA award <br>
+🔆 Metaverse Academy XR major Developer (2022.06.28~2022.12.02) <br>
 🔆 Team UGD GameDeveloper (2021~) <br>
-🔆 Metaverse Academy XR major Developer (2022.06.28~) <br>
 </p>
 <br>
 <br>
