@@ -88,7 +88,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <p align="center">
  <a href="https://github.com/sleepy-wood">
-    <img src="https://img.shields.io/badge/Sleepywood-purple"
+    <img src="https://img.shields.io/badge/Github-Sleepywood-purple"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a><br>
 
