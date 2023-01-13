@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=👩‍💻Hi!%20I'm%20Hyeonseo!👩‍💻&fontSize=50)
 - **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
-- **✏️ I'm studying Unity, Unreal Engine and Algorithm.**
+- **✏️ I'm studying Unity, Back-end and Algorithm.**
 - **🏫 I'm enrolled in Incheon National University.**
 - **📌 My private project is about to change to public.**
 
