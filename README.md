@@ -16,7 +16,8 @@
 🔆 Life Invention Korea 2021 (2021.06.02 ~ 2021.11.19)
      - received KISTA award <br>
 🔆 Metaverse Academy XR major Developer (2022.06.28~2022.12.02) - received development encouragement award<br>
-🔆 Team UGD GameDeveloper (2021~) <br>
+🔆 Team UGD GameDeveloper (2021~) <br>>
+🔆 2023 Algorithms Lecture on Samsung(2023.01 ~ 2023.03) <br>
 </p>
 <br>
 <br>
