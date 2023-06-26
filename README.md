@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=👩‍💻Hi!%20I'm%20Hyeonseo!👩‍💻&fontSize=50)
-- **👋 Hi, I’m [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
+- **👋 Hi, I’m Game Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - **✏️ I'm studying Unity and Algorithm.**
 - **🏫 I'm enrolled in Incheon National University.**
 - **📌 My private project is about to change to public.**
@@ -17,7 +17,7 @@
      - received KISTA award <br>
 🔆 Metaverse Academy XR major Developer (2022.06.28~2022.12.02) - received development encouragement award<br>
 🔆 2023 Algorithms Lecture on Samsung(2023.01 ~ 2023.03) <br>
-🔆 Smilgate LOST_ARK Developer Intern(2023.07.03~2023.08.25) <br>
+🔆 Smilegate LOST_ARK Developer Intern(2023.07.03~2023.08.25) <br>
 🔆 Team UGD GameDeveloper (2021~) <br>
 </p>
 <br>
