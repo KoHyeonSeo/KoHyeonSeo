@@ -17,6 +17,7 @@
      - received KISTA award <br>
 🔆 Metaverse Academy XR major Developer (2022.06.28~2022.12.02) - received development encouragement award<br>
 🔆 2023 Algorithms Lecture on Samsung(2023.01 ~ 2023.03) <br>
+🔆 Smilgate LOST_ARK Developer Intern(2023.07.03~2023.08.25) <br>
 🔆 Team UGD GameDeveloper (2021~) <br>
 </p>
 <br>
