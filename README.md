@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=👩‍💻Hi!%20I'm%20Hyeonseo!👩‍💻&fontSize=50)
 - **👋 Hi, I’m Game Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
-- **✏️ I'm studying Unity and Algorithm.**
-- **🏫 I'm enrolled in Incheon National University.**
+- **✏️ I'm studying .Net programming, Unity and Algorithm.**
 - **📌 My private project is about to change to public.**
 
 <p><a href="https://github.com/KoHyeonSeo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
@@ -19,7 +18,7 @@
 🔆 2023 Algorithms Lecture on Samsung(2023.01 ~ 2023.03) <br>
 🔆 Smilegate Development Intern(2023.07.03~2023.08.25) <br>
 🔆 Team UGD GameDeveloper (2021 ~ 2023) <br>
-🔆 Smilegate Devops Developer (2024.10.10 ~) <br>
+🔆 Smilegate Developer (2024.10.10 ~) <br>
 </p>
 <br>
 <br>
