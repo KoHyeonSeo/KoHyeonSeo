@@ -33,8 +33,8 @@
 <h3 align="center"><b> My Task 👩‍💻 </b></h3>
 </br>
 <p align="center">
- <img src="https://img.shields.io/badge/dotnet?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 <h3 align="center"><b> My Blog 🙂 </b></h3>
