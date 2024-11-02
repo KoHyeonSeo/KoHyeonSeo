@@ -33,7 +33,7 @@
 <h3 align="center"><b> My Task 👩‍💻 </b></h3>
 </br>
 <p align="center">
- <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=net&logoColor=white"/>
+ <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
