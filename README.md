@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=Dev Hyeonseo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=header&text=Dev%20Hyeonseo&fontSize=50)
 - **👋 Hi, I’m Game Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - **✏️ I'm studying .Net programming, Unity and Algorithm.**
 - **📌 My private project is about to change to public.**
@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHyeonSeo&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
-
+Dd
 
 <h3><b> My Career 🐥 </b></h3>
 </br>
