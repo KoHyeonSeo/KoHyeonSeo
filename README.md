@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=190&section=header&text=Dev.%20Hyeonseo&fontSize=30&fontColor=383838)
-- **👋 Hi, I’m Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=190&section=header&text=👋 Hi, I’m  Dev.%20Hyeonseo&fontSize=30&fontColor=383838)
+
 1. Enterprise Collaboration Tool Development on .NET 
 2. Data Processing & Automation Tool Development
 3. Unity Game Content & Editor Engineer
