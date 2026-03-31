@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=190&section=header&text=Dev.%20Hyeonseo&fontSize=30&fontColor=383838)
 - **👋 Hi, I’m Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
-- **✏️ I'm studying .Net programming, Unity and Algorithm.**
-- **📌 My private project is about to change to public.**
+1. Enterprise Collaboration Tool Development on .NET 
+2. Data Processing & Automation Tool Development
+3. Unity Game Content & Editor Engineer
+4. AI Integration Systems Engineer
 
+   
 <p><a href="https://github.com/KoHyeonSeo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHyeonSeo&show_icons=true&theme=radical)
