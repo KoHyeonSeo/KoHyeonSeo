@@ -22,13 +22,26 @@
 
 **Language**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**Framework & Tools**
+**Framework & Platform**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VSIX](https://img.shields.io/badge/VSIX-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Specialty**
+
+![AI Integration](https://img.shields.io/badge/AI%20Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Algorithm%20Design-00599C?style=flat-square&logo=thealgorithms&logoColor=white)
 
 ---
 
