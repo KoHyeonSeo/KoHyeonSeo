@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=190&section=header&text=Dev.%20Hyeonseo&fontSize=30&fontColor=383838)
-- **👋 Hi, I’m Game Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
+- **👋 Hi, I’m Developer [`KoHyeonSeo`](https://github.com/KoHyeonSeo)**
 - **✏️ I'm studying .Net programming, Unity and Algorithm.**
 - **📌 My private project is about to change to public.**
 
