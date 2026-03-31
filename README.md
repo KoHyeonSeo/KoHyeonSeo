@@ -1,102 +1,84 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=190&section=header&text=👋 Hi, I’m  Dev.%20Hyeonseo&fontSize=30&fontColor=383838)
+<div align="center">
 
-1. Enterprise Collaboration Tool Development on .NET 
-2. Data Processing & Automation Tool Development
-3. Unity Game Content & Editor Engineer
-4. AI Integration Systems Engineer
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ko%20Hyeonseo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18)
 
+</div>
+
+---
+
+## 👋 About Me
+
+```
+🎮  Game Developer  →  Enterprise Engineer  →  AI Integration Engineer
+📍  South Korea
+✉️  rhgustj310@gmail.com
+```
+
+> .NET 기반 엔터프라이즈 협업 도구부터 Unity 게임 콘텐츠, AI 통합 시스템까지 폭넓게 개발하고 있습니다.
+
+---
+
+## 🛠️ Tech Stack
+
+**Language**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**Framework & Tools**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## 💼 Career
+
+| Period | Experience |
+|--------|-----------|
+| 2023.10 ~ | **Smilegate** · Developer |
+| 2023.07 ~ 08 | **Smilegate** · Development Intern |
+| 2023.01 ~ 03 | **Samsung** · Algorithm Lecture |
+| 2022.06 ~ 12 | **Metaverse Academy** · XR Developer *(Development Encouragement Award)* |
+| 2021.06 ~ 11 | **Life Invention Korea** · *(KISTA Award)* |
+| 2021 ~ 2023 | **Team UGD** · Game Developer |
+
+---
+
+## 🎮 Projects
+
+| Project | Platform | Description |
+|---------|----------|-------------|
+| [Abîme](https://store.onstove.com/ko/games/103561) | STOVE | — |
+| [Back To The Dungeon](https://devslem.itch.io/back-to-the-dungeon) | itch.io | English Version |
+| [Law Of The Ocean](https://kohyeonseo.itch.io/lawoftheocean) | itch.io | English Version |
+| [Distraccion](https://github.com/KoHyeonSeo/Distraccion) | GitHub | Korean Version |
+| [Hephaitos](https://github.com/KoHyeonSeo/MidnightCamp) | GitHub | English Version |
+| [OverCooked (Video)](https://youtu.be/A4as3ovbg78) | YouTube | — |
+| [Sleepywood](https://github.com/sleepy-wood) | GitHub | — |
+
+---
+
+## 📊 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustj01)](https://solved.ac/rhgustj01/)
-Dd
 
-<h3><b> My Career 🐥 </b></h3>
-</br>
-🔆 Life Invention Korea 2021 (2021.06.02 ~ 2021.11.19)
-     - received KISTA award <br>
-🔆 Metaverse Academy XR major Developer (2022.06.28~2022.12.02) - received development encouragement award<br>
-🔆 2023 Algorithms Lecture on Samsung(2023.01 ~ 2023.03) <br>
-🔆 Smilegate Development Intern(2023.07.03~2023.08.25) <br>
-🔆 Team UGD GameDeveloper (2021 ~ 2023) <br>
-🔆 Smilegate Developer (2023.10.10 ~) <br>
-</p>
-<br>
-<br>
+---
 
-<h3 align="center"><b> My Languages ✏️ </b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+## 🔗 Links
 
-<h3 align="center"><b> My Task 👩‍💻 </b></h3>
-</br>
-<p align="center">
- <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
- <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
+<div align="center">
 
-<h3 align="center"><b> My Blog 🙂 </b></h3>
-</br>
-<p align="center">
-<a href="https://blog.naver.com/rhgustj01"><img src="https://img.shields.io/badge/-Naver%20blog-brightgreen?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustj01"/></a>   
-<a href="https://kohyeonseo.github.io"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://velog.io/@kohyeonseo1006"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kohyeonseo1006"/></a>
-</p>
+[![Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/rhgustj01)
+[![GitHub](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white)](https://kohyeonseo.github.io)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kohyeonseo1006)
 
- <h3 align="center"><b> Contact✉️ </b></h3>
-</br>
-<p align="center">
-<a href=mailto:rhgustj01@naver.com><img src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhgustj01@naver.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href=mailto:rhgustj310@gmail.com><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhgustj310@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</div>
 
+---
 
-<h3 align="center"><b> My Project (Link) 🎮 </b></h3>
+<div align="center">
 
-<p align="center">
- <a href="https://store.onstove.com/ko/games/103561">
-    <img src="https://img.shields.io/badge/STOVE-Abîme -green"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
- 
-<p align="center">
- <a href="https://devslem.itch.io/back-to-the-dungeon">
-    <img src="https://img.shields.io/badge/itch.io-Back To The Dungeon(English Version)-yellow"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
-<p align="center">
- <a href="https://kohyeonseo.itch.io/lawoftheocean">
-    <img src="https://img.shields.io/badge/itch.io-Law Of The Ocean(English Version)-blue"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
-
-<p align="center">
- <a href="https://github.com/KoHyeonSeo/Distraccion">
-    <img src="https://img.shields.io/badge/Github-Distraccion(Korean Version)-pink"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
-
-<p align="center">
- <a href="https://github.com/KoHyeonSeo/MidnightCamp">
-    <img src="https://img.shields.io/badge/Github-Hephaitos(English Version)-black"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
-
-<p align="center">
- <a href="https://youtu.be/A4as3ovbg78">
-    <img src="https://img.shields.io/badge/Video-OverCooked(Video)-orange"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
-
-<p align="center">
- <a href="https://github.com/sleepy-wood">
-    <img src="https://img.shields.io/badge/Github-Sleepywood-purple"
-        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
-</a><br>
-
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF64&height=200&section=footer)
+</div>
