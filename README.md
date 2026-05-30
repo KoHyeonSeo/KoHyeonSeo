@@ -80,10 +80,12 @@
 
 ## 🔗 Links
 <div align="center">
+
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://rhsgutj01.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kohyeonseo1006)
 [![GitHub](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white)](https://kohyeonseo.github.io)
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/rhgustj01)
+
 </div>
 
 ---
