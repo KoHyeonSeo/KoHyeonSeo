@@ -15,6 +15,8 @@
 ```
 
 > .NET 기반 엔터프라이즈 협업 도구부터 Unity 게임 콘텐츠, AI 통합 시스템까지 폭넓게 개발하고 있습니다.
+>
+> 최근에는 LangChain / LangGraph, CrewAI를 활용한 AI Agent 개발을 공부하며 역량을 넓혀가고 있습니다.
 
 ---
 
@@ -43,6 +45,18 @@
 
 ![AI Integration](https://img.shields.io/badge/AI%20Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![Algorithm](https://img.shields.io/badge/Algorithm%20Design-00599C?style=flat-square&logo=thealgorithms&logoColor=white)
+
+**AI Agent**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white)
+
+---
+
+## 🤖 AI Agent
+
+> LangChain / LangGraph와 CrewAI를 활용한 멀티 에이전트 시스템 설계를 공부하며, AI Integration 경험을 Agent 영역으로 확장하고 있습니다.
 
 ---
 
@@ -80,6 +94,7 @@
 ---
 
 ## 🔗 Links
+
 <div align="center">
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://rhsgutj01.tistory.com/)
