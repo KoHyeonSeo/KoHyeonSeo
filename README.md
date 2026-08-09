@@ -77,7 +77,7 @@
 
 | Project | Platform | Description |
 |---------|----------|-------------|
-| [V-Flux 가계부](https://github.com/KoHyeonSeo/V-Flux-page) | Google Play Store(2026 출시예정) | — |
+| [V-Flux 가계부](https://github.com/KoHyeonSeo/V-Flux-page) | Google Play Store(2026 출시예정) | [소개 페이지 보기](https://kohyeonseo.github.io/V-Flux-page/) |
 | [Abîme](https://store.onstove.com/ko/games/103561) | STOVE | — |
 | [Back To The Dungeon](https://devslem.itch.io/back-to-the-dungeon) | itch.io | English Version |
 | [Law Of The Ocean](https://kohyeonseo.itch.io/lawoftheocean) | itch.io | English Version |
