@@ -48,7 +48,6 @@
 
 **AI Agent**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white)
 
