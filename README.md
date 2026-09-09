@@ -9,7 +9,7 @@
 ## 👋 About Me
 
 ```
-🎮  Game Developer  →  Enterprise Engineer  →  AI Integration Engineer
+🎮  Game Developer  →  Enterprise Engineer  →  AI Integration Solution Engineer
 📍  South Korea
 ✉️  rhgustj310@gmail.com
 ```
